@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Ahmed Fouad
 
 <div align="center">
-  <img src="https://media.tenor.com/xpndKxv2QMgAAAAC/goma-work.gif="Banner Image">
+  <img src="https://media.tenor.com/xpndKxv2QMgAAAAC/goma-work.gif="Banner Image" width="200">
 </div>
 
 ### About Me
